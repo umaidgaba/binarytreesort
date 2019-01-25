@@ -76,6 +76,26 @@ The code contains following
 •	insert(bNode root, int v), this function will get the input VALUE inserted by user in tree. When user enters any data first this function will check whether the tree is empty or not, in case of empty tree value data will be inserted at ROOT and if tree is not empty then it will further check whether given value is greater than ROOT it will be inserted in right sub-tree and if value is less than ROOT then it will be entered at left sub-tree.
 
 •	Displaytree(bNode root) is a function which performs in-order traversal to get elements in sorted order. This will print left child first then root and right child. In this way we will get data in sorted order.
+
+## How to Run:
+This programme is a menu driven programme
+
+On the interface, there are 3 options for user,
+1.	Insert 		(to insert any value in tree)
+2.	Display		(display the tree)
+3.	Exit		(exit the program)
+
+User will have to choose anyone option from the given menu.
+
+If user enters 1 then he will be asked to insert the value in tree .After the value is entered, that value will be checked and added to the tree it will be asked for operation he wants to perform.
+
+If user enter 2, then all the elements of tree will display in sorted order
+
+If option 3 is chosen, then program will be terminated.
+
+After every operation user will be asked again and again to select any option from the menu until the user select the exit option and terminate the programme.
+
+
 ## Group members:
 
 •	MUHAMMAD UMAID 				17B-073-SE
