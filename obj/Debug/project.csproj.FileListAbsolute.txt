@@ -1,0 +1,6 @@
+J:\semester 3\DS\Final Project\Final Project\project\project\bin\Debug\project.exe.config
+J:\semester 3\DS\Final Project\Final Project\project\project\bin\Debug\project.exe
+J:\semester 3\DS\Final Project\Final Project\project\project\bin\Debug\project.pdb
+J:\semester 3\DS\Final Project\Final Project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+J:\semester 3\DS\Final Project\Final Project\project\project\obj\Debug\project.exe
+J:\semester 3\DS\Final Project\Final Project\project\project\obj\Debug\project.pdb
